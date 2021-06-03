@@ -1,0 +1,27 @@
+h1{color: blue}
+
+ *{border:solid}
+
+.header{
+ background-color:red;
+
+ display:flex;
+ justify-content:space-around;
+
+}
+
+.myGames{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+
+.footer{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
